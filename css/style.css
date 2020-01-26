@@ -1,0 +1,578 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+
+}
+
+/*header file*/
+header{
+	background: #87509c;
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+
+}
+
+.logo{
+	width: 35%;
+	float: left;
+}
+
+.menu{
+	width: 65%;
+	float: left;
+
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 10px 30px;
+
+}
+
+nav ul li a{
+	color: #fff;
+	font-size: 25px;
+	text-decoration: none;
+
+}
+
+.header-banner{
+	width: 65%;
+	margin: 0 auto;
+	padding: 100px 0px;
+	text-align: center;
+
+}
+
+.header-banner h2{
+	
+	color: #fff;
+
+}
+
+.btn{
+	background: #cb7d4b;
+	padding: 10px 30px;
+	color: #fff;
+	border: none;
+	margin: 15px 0px;
+	font-size: 25px;
+	box-shadow: 0px 2px black;
+
+
+}
+
+
+
+
+
+/*service file*/
+.service{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #17c2ad 
+
+}
+
+.service-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.service-title h2{
+	text-align: center;
+
+}
+
+.service-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.service-title p{
+	text-align: center;
+}
+
+.service-feature{
+	width: 100%;
+	float: left;
+}
+.service-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 10px 15px;
+}
+.service-one img{
+	text-align: center;
+	padding: 5px 0px;
+}
+.service-one h2{
+	text-align: center;
+	padding: 4px 0px;
+}
+.service-one p{
+	text-align: center;
+	padding: 4px 0px;
+}
+
+
+
+
+
+/*team file*/
+.team{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: gray; 
+
+}
+
+.team-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.team-title h2{
+	text-align: center;
+
+}
+
+.team-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.team-title p{
+	text-align: center;
+}
+
+.team-service{
+	width: 100%;
+	float: left;
+}
+.team-service-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 10px 15px;
+}
+.team-service-one img{
+	text-align: center;
+    padding: 2px 0px;
+    width: 200px;
+}
+.team-service-one h2{
+	text-align: center;
+	padding: 4px 0px;
+}
+.team-service-one p{
+	text-align: center;
+	padding: 4px 0px;
+}
+
+
+
+
+
+
+
+
+/*skill file*/
+.skill{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: white; 
+
+}
+
+.skill-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.skill-title h2{
+	text-align: center;
+
+}
+
+.skill-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.skill-title p{
+	text-align: center;
+}
+
+.skill-service{
+	width: 100%;
+	float: left;
+}
+.skill-service-one{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin: 10px 15px;
+}
+.skill-service-one img{
+	text-align: center;
+    padding: 2px 0px;
+    width: 200px;
+}
+.skill-service-one h2{
+	text-align: center;
+	padding: 4px 0px;
+}
+.skill-service-one p{
+	text-align: center;
+	padding: 4px 0px;
+}
+
+
+
+
+
+
+
+/*place file*/
+.place{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #FFDC98; 
+
+}
+
+.place-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.place-title h2{
+	text-align: center;
+
+}
+
+.place-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.place-title p{
+	text-align: center;
+}
+
+
+.place-btn{
+    width: 100%;
+    float: left;
+    text-align: center;
+
+}
+button{
+	background: #cb7d4b;
+    padding: 10px 30px;
+    color: #fff;
+    border: none;
+    margin: 50px 0px;
+    font-size: 25px;
+    box-shadow: 0px 2px black;
+
+}
+
+.first-place-service{
+	width: 100%;
+	float: left;
+}
+.place-service-one{
+	width: 40%;
+	float: left;
+	text-align: center;
+	margin: 10px 15px;
+}
+.place-service-one img{
+	text-align: center;
+    padding: 2px 0px;
+    width: 400px;
+}
+.place-service-one h2{
+	text-align: center;
+	padding: 4px 0px;
+}
+
+
+.second-place-service{
+	width: 100%;
+	float: left;
+}
+.place-service-two{
+	width: 40%;
+	float: left;
+	text-align: center;
+	margin: 10px 15px;
+}
+.place-service-two img{
+	text-align: center;
+    padding: 2px 0px;
+    width: 400px;
+}
+.place-service-two h2{
+	text-align: center;
+	padding: 4px 0px;
+}
+.place-btn-one{
+    width: 100%;
+    float: left;
+    text-align: center;
+
+}
+.btn1{
+	background: #cb7d4b;
+    padding: 10px 30px;
+    color: #fff;
+    border: none;
+    margin: 20px 0px;
+    font-size: 25px;
+    box-shadow: 0px 2px black;
+
+}
+
+
+
+
+
+/*profile file*/
+.profile{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #D64482; 
+
+}
+
+.profile-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.profile-title h2{
+	text-align: center;
+
+}
+
+.profile-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.profile-title p{
+	text-align: center;
+	margin: 5px 5px;
+}
+
+
+.profile-service{
+	width: 100%;
+	float: left;
+}
+.profile-service-one{
+	width: 20%;
+	float: left;
+	text-align: center;
+	margin: 5px 15px;
+}
+.profile-service-one img{
+	text-align: center;
+    padding: 2px 0px;
+    width: 200px;
+}
+
+.profile-service-two{
+	width: 20%;
+	float: left;
+}
+
+.profile-service-two p{
+	text-align: center;
+	padding: 4px 0px;
+	margin: 5px 5px;
+
+}
+.profile-service-two h2{
+	text-align: center;
+	padding: 6px 0px;
+}
+
+
+
+/*login file*/
+.login{
+	width: 100%;
+	float: left;
+	padding: 25px 0px;
+	background: #3D549A; 
+
+}
+
+.login-title{
+	width: 55%;
+	margin: 0 auto;
+}
+
+.login-title h2{
+	text-align: center;
+
+}
+
+.login-title span{
+	border-bottom: 2px solid black;
+	display: block;
+	width: 20%;
+	margin: 10px auto;
+
+}
+
+.login-title p{
+	text-align: center;
+	margin: 5px 5px;
+}
+
+.login-service{
+	width: 100%;
+	float: left;
+
+}
+
+.login-service-one{
+	width: 45%;
+	float: left;
+	text-align: center;
+}
+
+.form1{
+	text-align: right;
+}
+
+.form-control1{
+	width: 280px;
+	height: 20px
+	padding:10px;
+	margin: 4px;
+
+}
+
+.login-service-two{
+	width: 45%;
+	float: left;
+	text-align: center;
+}
+
+.form2{
+	text-align: left;
+}
+
+.form-control2{
+	width: 280px;
+	height: 20px
+	padding: 5px;
+	margin: 4px;
+
+}
+.login-position{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.form3{
+	text-align: center;
+
+}
+
+.form-control3{
+	width: 608px;
+	height: 100px;
+	padding: 5px;
+	margin: 5px;
+
+}
+
+.login-btn{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
+.btn2{
+	background: #cb7d4b;
+    padding: 10px 30px;
+    color: #fff;
+    border: none;
+    margin: 20px 0px;
+    font-size: 25px;
+    box-shadow: 0px 2px black;
+
+}
+
+
+
+
+/*footer file*/
+footer{
+	width: 100%;
+	float: left;
+	padding: 25PX 0PX;
+	background: #334A8D;
+}
+
+.value{
+	width: 85%;
+	float: left;
+
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+nav ul li{
+	display: inline-block;
+	margin: 30px 20px;
+	text-align: center;
+
+}
+
+nav ul li a{
+	color: white;
+	font-size: 25px;
+	text-decoration: none;
+
+}
